@@ -1,0 +1,19 @@
+{
+  "name": "markdown-it-custom-html-comment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": ["markdown-it-plugin", "markdown-it", "markdown"],
+  "author": "Hideo Kawamura",
+  "license": "ISC",
+  "dependencies": {
+    "markdown-it": "^8.4.2"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
