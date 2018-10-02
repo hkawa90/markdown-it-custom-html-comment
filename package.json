@@ -6,6 +6,10 @@
   "scripts": {
     "test": "mocha"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hkawa90/markdown-it-custom-html-comment.git"
+  },
   "keywords": ["markdown-it-plugin", "markdown-it", "markdown"],
   "author": "Hideo Kawamura",
   "license": "ISC",
